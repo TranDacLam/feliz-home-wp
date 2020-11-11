@@ -837,7 +837,7 @@ img {
       list-style: none;
       display: flex;
       justify-content: center;
-      margin-bottom: 40px; }
+      margin-bottom: 30px; }
       .landing-page .furniture__nav li:not(last-child) {
         margin-right: 35px;
       }
@@ -914,6 +914,11 @@ img {
     background-size: cover;
     background-position: center;
     color: #FFFFFF; }
+    .landing-page .news .owl-stage {
+      display: flex; } 
+    .landing-page .news .owl-item {
+      display: flex; 
+      float: none;}
     .landing-page .news__item {
       background-color: #FFFFFF;
       padding: 4px 4px;
@@ -1382,12 +1387,7 @@ img {
   .landing-page .apartment__item img {
     width: 65%; }
   .landing-page .news .owl-dots {
-    margin-top: 30px; }
-  .landing-page .news .owl-stage {
-    display: flex; } 
-  .landing-page .news .owl-item {
-    display: flex; 
-    float: none;} }
+    margin-top: 30px; } }
 @media only screen and (max-width: 1300px) {
   .info-fixed{
     left: 35px;

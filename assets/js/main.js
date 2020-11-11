@@ -176,7 +176,7 @@ $(function(){
 		margin:50,
 		nav: true,
 		navText: [`<img src="`+THEME_URL+`/assets/images/arrow-1.png" />`, `<img src="`+THEME_URL+`/assets/images/arrow-2.png" />`],
-		// autoplay:true,
+		autoplay:true,
 		autoplayTimeout:5000,
 		autoplayHoverPause:true,
 		responsive:{
