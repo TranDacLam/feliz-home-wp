@@ -111,7 +111,7 @@ $(function(){
 		dots: false,
 		loop:true,
 		navText: navText,
-		autoplay:true,
+		// autoplay:true,
 		autoplayTimeout:5000,
 		autoplayHoverPause:true,
 		responsive:{

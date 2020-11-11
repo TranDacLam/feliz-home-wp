@@ -594,17 +594,17 @@
 				<div class="tab-pane fade  show active" id="furniture-tab-2" role="tab" aria-controls="furniture-tab-2" aria-selected="true">
 					<div class="furniture__list owl-carousel">
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/main.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/main.png"/>
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/1.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/1.png"/>
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/2.jpg"/>
-						</div>
-						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/3.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/2.png"/>
 						</div>	
+						<div class="furniture__item">
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/3.png"/>
+						</div>
 						<div class="furniture__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/z1.jpg"/>
 						</div>
@@ -665,10 +665,10 @@
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/5.jpg" />
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/6.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/6.png" />
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/7.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/7.png" />
 						</div>
 						<div class="furniture__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/8.jpg" />
@@ -689,16 +689,13 @@
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/14.jpg" />
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/15.jpg" />
-						</div>
-						<div class="furniture__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/16.jpg" />
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/17.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/17.png" />
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/20.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/20.png" />
 						</div>
 					</div>
 				</div>
