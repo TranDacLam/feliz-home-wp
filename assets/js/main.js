@@ -173,7 +173,7 @@ $(function(){
 	$('.news__list').owlCarousel({
 		items:3,
 		loop:true,
-		margin:60,
+		margin:50,
 		nav: true,
 		navText: [`<img src="`+THEME_URL+`/assets/images/arrow-1.png" />`, `<img src="`+THEME_URL+`/assets/images/arrow-2.png" />`],
 		// autoplay:true,

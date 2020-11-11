@@ -114,12 +114,6 @@
 						</li>
 						<li class="wow fadeInLeftBig" data-wow-delay="1.4s">
 							<div>
-								<p>Diện tích đất:</p>
-								<strong>22.500m2</strong>
-							</div>
-						</li>
-						<li class="wow fadeInLeftBig" data-wow-delay="1.8s">
-							<div>
 								<p>Quy mô:</p>
 								<strong>03 tòa tháp chung cư</strong>
 								<strong>Công viên cây xanh và tiện ích</strong>
@@ -127,13 +121,13 @@
 								<strong>Nhà đỗ xe thông minh</strong>
 							</div>
 						</li>
-						<li class="wow fadeInLeftBig" data-wow-delay="2.2s">
+						<li class="wow fadeInLeftBig" data-wow-delay="1.8s">
 							<div>
 								<p>TỔNG SỐ CĂN HỘ:</p>
 								<strong>1.248 căn</strong>
 							</div>
 						</li>
-						<li class="wow fadeInLeftBig" data-wow-delay="2.6s">
+						<li class="wow fadeInLeftBig" data-wow-delay="2.2s">
 							<div>
 								<p>THỜI GIAN HOÀN THÀNH:</p>
 								<strong>Dự kiến Quý II/2022</strong>
@@ -467,7 +461,7 @@
 				<div class="tab-pane fade show active" id="apartment-tab-1" role="tab" aria-controls="apartment-tab-1" aria-selected="true">
 					<div class="apartment__list owl-carousel">
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc.png"/>
 							<div class="apartment__item-title">
 								<h4>T10 - 2PN 2WC</h4>
 								<p>DT Tim Tường : 69.12m2 </p>
@@ -475,7 +469,7 @@
 							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc_1.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc_1.png"/>
 							<div class="apartment__item-title">
 								<h4>T11 - 2PN 2WC</h4>
 								<p>DT Tim Tường : 80.01m2 </p>
@@ -483,7 +477,7 @@
 							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/4pn_2wc.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/4pn_2wc.png"/>
 							<div class="apartment__item-title">
 								<h4>T01 - 4PN 2WC</h4>
 								<p>DT Tim Tường : 123.9m2 </p>
@@ -491,7 +485,7 @@
 							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/3pn_2wc.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/3pn_2wc.png"/>
 							<div class="apartment__item-title">
 								<h4>T02 - 3PN 2WC</h4>
 								<p>DT Tim Tường : 113.5m2 </p>
@@ -499,7 +493,7 @@
 							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc_2.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc_2.png"/>
 							<div class="apartment__item-title">
 								<h4>T03-T04 & T06-T09 & T12-T12A - 2PN 2WC</h4>
 								<p>DT Tim Tường : 69.12m2 </p>
@@ -507,7 +501,7 @@
 							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/3pn_2wc_1.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/3pn_2wc_1.png"/>
 							<div class="apartment__item-title">
 								<h4>T05 - 3PN 2WC</h4>
 								<p>DT Tim Tường : 118m2</p>
@@ -519,30 +513,36 @@
 				<div class="tab-pane fade" id="apartment-tab-3" role="tab" aria-controls="apartment-tab-3" aria-selected="true">
 					<div class="apartment__list owl-carousel">
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/1.jpg"/>
-							<!-- <div class="apartment__item-title">
-								<h4>Căn hộ 3PN + 2WC</h4>
-								<p>DT Tim Tường: 00 - 00 m2 </p>
-								<p>DT Thông Thủy: 3</p>
-							</div> -->
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/1.png"/>
+							<div class="apartment__item-title">
+								<h4>F1 - F8 - F9 - F16 - 3PN 2WC</h4>
+								<p>DT Tim tường : 100.43m2</p>
+								<p>DT Thông thuỷ : 95.97m2 - 96.09m2 </p>
+							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/2.jpg"/>
-							<!-- <div class="apartment__item-title">
-								Công viên tổ hợp tiện ích 1000m2 3
-							</div> -->
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/2.png"/>
+							<div class="apartment__item-title">
+								<h4>F03 - F6 - F11 - F14 - 3PN 2WC</h4>
+								<p>DT Tim tường : 114.94m2</p>
+								<p>DT Thông thuỷ : 107.44m2 - 108.02m2</p>
+							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/4.jpg"/>
-							<!-- <div class="apartment__item-title">
-								Công viên tổ hợp tiện ích 1000m2 3
-							</div> -->
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/3.png"/>
+							<div class="apartment__item-title">
+								<h4>F4 - F5 - F12 - F12A - 2PN 2WC</h4>
+								<p>DT Tim tường : 79.50m2</p>
+								<p>DT Thông thuỷ : 76.27m2 - 76.40m2</p>
+							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/5.jpg"/>
-							<!-- <div class="apartment__item-title">
-								Công viên tổ hợp tiện ích 1000m2 3
-							</div> -->
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/4.png"/>
+							<div class="apartment__item-title">
+								<h4>F2 - F7 - F10 - F15 - 2PN 2WC</h4>
+								<p>DT Tim tường : 81.75m2</p>
+								<p>DT Thông thuỷ : 77.21 - 77.66m2</p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -604,9 +604,6 @@
 						</div>
 						<div class="furniture__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/3.jpg"/>
-						</div>
-						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/4.jpg"/>
 						</div>	
 						<div class="furniture__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/z1.jpg"/>
@@ -677,16 +674,7 @@
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/8.jpg" />
 						</div>
 						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/9.jpg" />
-						</div>
-						<div class="furniture__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/10.jpg" />
-						</div>
-						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/10_1.jpg" />
-						</div>
-						<div class="furniture__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/10_2.jpg" />
 						</div>
 						<div class="furniture__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/11.jpg" />
