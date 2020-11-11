@@ -722,28 +722,28 @@
 	<div class="news section" id="section9">
 		<div class="container">
 			<div class="news__list owl-carousel">
-				<div class="news__item">
+				<a class="news__item" href="https://cafef.vn/chung-cu-xanh-o-noi-do-nhu-cau-cao-nhung-nguon-cung-it-oi-20201109160457881.chn" target="_blank">
 					<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-3.jpg" />
 					<h6>Chung cư xanh ở nội đô: Nhu cầu cao nhưng nguồn cung ít ỏi</h6>
 					<p>
 						Mặc dù xu hướng xanh hóa đã rộ lên trong vài năm trở lại đây, 
 						tuy nhiên số lượng dự án xanh tại Hà Nội vẫn rất ít ỏi. Cơn khát dự án xanh ngày càng trở nên gay gắt.
 					</p>
-				</div>
-				<div class="news__item">
+				</a>
+				<a class="news__item" href="https://dantri.com.vn/bat-dong-san/chung-cu-xanh-o-noi-do-con-khat-bao-gio-duoc-giai-20201109100101596.htm" target="_blank">
 					<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-1.jpg" />
 					<h6>Thời điểm vàng để mua chung cư Hà Nội</h6>
 					<p>
 						Chung cư Hà Nội lại hội tụ đầy đủ các yếu tố thuận lợi để người mua tạo lập một tổ ấm hoặc đầu tư sinh lợi lâu dài...
 					</p>
-				</div>
-				<div class="news__item">
+				</a>
+				<a class="news__item" href="https://thanhnien.vn/tai-chinh-kinh-doanh/ha-noi-thieu-hut-du-an-xanh-khu-trung-tam-1294703.html" target="_blank">
 					<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-2.jpg" />
 					<h6>Hà Nội: Thiếu hụt dự án xanh khu trung tâm</h6>
 					<p>
 						Tại Hà Nội, các chủ đầu tư tập trung thường phát triển các dự án với mật độ xây dựng cao để tối đa hóa diện tích thương phẩm...
 					</p>
-				</div>
+				</a>
 			</div>
 		</div>
 	</div>

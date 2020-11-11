@@ -919,7 +919,9 @@ img {
       padding: 4px 4px;
       border-radius: 20px;
       color: #125f6a; 
-      border: 1px solid #098296; }
+      border: 1px solid #098296; 
+      display: block;
+      text-decoration: none;}
       .landing-page .news__item img {
         border-top-right-radius: 20px;
         border-top-left-radius: 20px;
@@ -935,6 +937,9 @@ img {
         text-transform: uppercase;
         text-align: center;
         line-height: 27px; }
+        .landing-page .news__item h6:hover{
+          text-decoration: underline;
+        }
       .landing-page .news__item p {
         padding: 0 20px;
         text-align: justify;
