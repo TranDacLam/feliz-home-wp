@@ -92,33 +92,33 @@
 	<div class="about section" id="section1">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="about__content wow fadeInRightBig d-flex align-items-center">
+				<div class="about__content wow fadeInLeftBig d-flex align-items-center">
 					<ul class="about__content-body">
-						<li class="wow fadeInRightBig" data-wow-delay="0.2s">
+						<li class="wow fadeInLeftBig" data-wow-delay="0.2s">
 							<div>
 								<p>Chủ đầu tư:</p>
 								<strong>Công ty Cổ Phần KLB</strong>
 							</div>
 						</li>
-						<li class="wow fadeInRightBig" data-wow-delay="0.6s">
+						<li class="wow fadeInLeftBig" data-wow-delay="0.6s">
 							<div>
 								<p>Vị trí:</p>
 								<strong>P. Hoàng Văn Thụ, Q. Hoàng Mai, Hà Nội</strong>
 							</div>
 						</li>
-						<li class="wow fadeInRightBig" data-wow-delay="1s">
+						<li class="wow fadeInLeftBig" data-wow-delay="1s">
 							<div>
 								<p>Sản phẩm:</p>
 								<strong>Căn hộ chung cư cao cấp sổ hồng lâu dài</strong>
 							</div>
 						</li>
-						<li class="wow fadeInRightBig" data-wow-delay="1.4s">
+						<li class="wow fadeInLeftBig" data-wow-delay="1.4s">
 							<div>
 								<p>Diện tích đất:</p>
 								<strong>22.500m2</strong>
 							</div>
 						</li>
-						<li class="wow fadeInRightBig" data-wow-delay="1.8s">
+						<li class="wow fadeInLeftBig" data-wow-delay="1.8s">
 							<div>
 								<p>Quy mô:</p>
 								<strong>03 tòa tháp chung cư</strong>
@@ -127,13 +127,13 @@
 								<strong>Nhà đỗ xe thông minh</strong>
 							</div>
 						</li>
-						<li class="wow fadeInRightBig" data-wow-delay="2.2s">
+						<li class="wow fadeInLeftBig" data-wow-delay="2.2s">
 							<div>
 								<p>TỔNG SỐ CĂN HỘ:</p>
 								<strong>1.248 căn</strong>
 							</div>
 						</li>
-						<li class="wow fadeInRightBig" data-wow-delay="2.6s">
+						<li class="wow fadeInLeftBig" data-wow-delay="2.6s">
 							<div>
 								<p>THỜI GIAN HOÀN THÀNH:</p>
 								<strong>Dự kiến Quý II/2022</strong>
@@ -141,7 +141,7 @@
 						</li>
 					</ul>
 				</div>
-				<div class="wow about__img fadeInLeftBig d-flex flex-column justify-content-center align-items-end">
+				<div class="wow about__img fadeInRightBig d-flex flex-column justify-content-center align-items-end">
 					<img src="<?php echo THEME_URL  ?>/assets/images/about.png" />
 				</div>
 			</div>
@@ -335,12 +335,12 @@
 	<div class="utilities-3 section" id="section5">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="wow col-lg-7 slideInRight utilities-3__img">
+				<div class="wow col-lg-7 bounceInLeft utilities-3__img">
 					<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich-3-1.png" />
 				</div>
 
-				<div class="utilities-3__content col-lg-5 wow bounceInLeft" data-wow-delay="0.5s">
-					<h4><p><span>HƠN</span> <strong>39</strong> <span>TIỆN ÍCH<span></p> NỘI KHU ĐẲNG CẤP</h4>
+				<div class="utilities-3__content col-lg-5 wow slideInRight" data-wow-delay="0.5s">
+					<h4><p><span>HƠN</span> <strong>40</strong> <span>TIỆN ÍCH<span></p> NỘI KHU ĐẲNG CẤP</h4>
 					<div>
 						<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich-3-2.png" />
 					</div>
@@ -450,17 +450,12 @@
 			<ul class="apartment__nav nav">
 				<li class="wow bounceInRight">
 					<a class="nav-link active" id="apartment-1" data-toggle="tab" href="#apartment-tab-1" role="tab" aria-controls="apartment-tab-1" aria-selected="true">
-						2 phòng ngủ
+						TROPICAL
 					</a>
 				</li>
 				<li class="wow bounceInRight" data-wow-delay="0.8s">
 					<a class="nav-link" id="apartment-3" data-toggle="tab" href="#apartment-tab-3" role="tab" aria-controls="apartment-tab-3" aria-selected="false">
-						3 phòng ngủ
-					</a>
-				</li>
-				<li class="wow bounceInRight" data-wow-delay="1.2s">
-					<a class="nav-link" id="apartment-4" data-toggle="tab" href="#apartment-tab-4" role="tab" aria-controls="apartment-tab-4" aria-selected="false">
-						Căn DUAL KEY
+						FANTASY
 					</a>
 				</li>
 			</ul>
@@ -468,34 +463,59 @@
 				<div class="tab-pane fade show active" id="apartment-tab-1" role="tab" aria-controls="apartment-tab-1" aria-selected="true">
 					<div class="apartment__list owl-carousel">
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/main.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc.jpg"/>
+							<div class="apartment__item-title">
+								<h4>T10 - 2PN 2WC</h4>
+								<p>DT Tim Tường : 69.12m2 </p>
+								<p>DT Thông Thuỷ : 65.06m2 - 65.28m2</p>
+							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/1.jpg"/>
-							<!-- <div class="apartment__item-title">
-								<h4>Căn hộ 2PN + 2WC</h4>
-								<p>DT Tim Tường: 00 - 00 m2 </p>
-								<p>DT Thông Thủy: 1</p>
-							</div> -->
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc_1.jpg"/>
+							<div class="apartment__item-title">
+								<h4>T11 - 2PN 2WC</h4>
+								<p>DT Tim Tường : 80.01m2 </p>
+								<p>DT Thông Thuỷ : 75.37m2 - 76.49m2</p>
+							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/2.jpg"/>
-							<!-- <div class="apartment__item-title">
-								Công viên tổ hợp tiện ích 1000m2 1
-							</div> -->
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/4pn_2wc.jpg"/>
+							<div class="apartment__item-title">
+								<h4>T01 - 4PN 2WC</h4>
+								<p>DT Tim Tường : 123.9m2 </p>
+								<p>DT Thông Thuỷ : 117.08m2 - 117.44m2</p>
+							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/3.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/3pn_2wc.jpg"/>
+							<div class="apartment__item-title">
+								<h4>T02 - 3PN 2WC</h4>
+								<p>DT Tim Tường : 113.5m2 </p>
+								<p>DT Thông Thuỷ : 106.99m2 - 107.58m2</p>
+							</div>
 						</div>
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/2pn/4.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc_2.jpg"/>
+							<div class="apartment__item-title">
+								<h4>T03-T04 & T06-T09 & T12-T12A - 2PN 2WC</h4>
+								<p>DT Tim Tường : 69.12m2 </p>
+								<p>DT Thông Thuỷ : 65.55m2 - 65.79m2</p>
+							</div>
+						</div>
+						<div class="apartment__item">
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/3pn_2wc_1.jpg"/>
+							<div class="apartment__item-title">
+								<h4>T05 - 3PN 2WC</h4>
+								<p>DT Tim Tường : 118m2</p>
+								<p>DT Thông Thuỷ : 111.40m2 - 111.81m2</p>
+							</div>
 						</div>	
 					</div>
 				</div>
 				<div class="tab-pane fade" id="apartment-tab-3" role="tab" aria-controls="apartment-tab-3" aria-selected="true">
 					<div class="apartment__list owl-carousel">
 						<div class="apartment__item">
-							<img src="<?php echo THEME_URL  ?>/assets/images/apartment-1.svg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/1.jpg"/>
 							<!-- <div class="apartment__item-title">
 								<h4>Căn hộ 3PN + 2WC</h4>
 								<p>DT Tim Tường: 00 - 00 m2 </p>
@@ -503,41 +523,23 @@
 							</div> -->
 						</div>
 						<div class="apartment__item">
-							<img src="<?php echo THEME_URL  ?>/assets/images/apartment-1.svg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/2.jpg"/>
 							<!-- <div class="apartment__item-title">
 								Công viên tổ hợp tiện ích 1000m2 3
 							</div> -->
 						</div>
 						<div class="apartment__item">
-							<img src="<?php echo THEME_URL  ?>/assets/images/apartment-1.svg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/4.jpg"/>
 							<!-- <div class="apartment__item-title">
 								Công viên tổ hợp tiện ích 1000m2 3
 							</div> -->
 						</div>
-					</div>
-				</div>
-				<div class="tab-pane fade" id="apartment-tab-4" role="tab" aria-controls="apartment-tab-4" aria-selected="true">
-					<div class="apartment__list owl-carousel">
 						<div class="apartment__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/noithat/dua-key/20.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/fantasy/5.jpg"/>
 							<!-- <div class="apartment__item-title">
-								<h4>3PN + 3WC</h4>
-								<p>DT Tim Tường: 00 - 00 m2 </p>
-								<p>DT Thông Thủy: 4</p>
+								Công viên tổ hợp tiện ích 1000m2 3
 							</div> -->
 						</div>
-						<!-- <div class="apartment__item">
-							<img src="<?php echo THEME_URL  ?>/assets/images/apartment-1.svg" />
-							<div class="apartment__item-title">
-								Công viên tổ hợp tiện ích 1000m2 4
-							</div>
-						</div> -->
-						<!-- <div class="apartment__item">
-							<img src="<?php echo THEME_URL  ?>/assets/images/apartment-1.svg" />
-							<div class="apartment__item-title">
-								Công viên tổ hợp tiện ích 1000m2 4
-							</div>
-						</div> -->
 					</div>
 				</div>
 			</div>
@@ -566,7 +568,7 @@
 					</li>
 					<li class="wow bounceInLeft">
 						<a class="nav-link" data-toggle="tab" href="#furniture-tab-4" role="tab" aria-controls="furniture-tab-4" aria-selected="false">
-							Căn DUAL KEY
+							4 phòng ngủ
 						</a>
 					</li>
 				</ul>
