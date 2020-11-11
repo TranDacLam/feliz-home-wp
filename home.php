@@ -27,7 +27,7 @@
 							</a>
 						</li>
 						<li class="navbar__contact-hotline">
-							<a href="tel:0916 321 919">0916 32 19 19</a>
+							<a href="tel:0916321919">091 632 1919</a>
 						</li>
 					</ul>
 				</div>
@@ -226,25 +226,25 @@
 				<div class="utilities__slides col-lg-8 wow bounceInLeft" data-wow-delay="0.5s">
 					<div class="utilities__list owl-carousel">
 						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/FL-BYV-DAY2.jpg"/>
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-1.jpg"/>
 							<!-- <div class="utilities__item-title">
 								Công viên tổ hợp tiện ích 4000m2
 							</div> -->
 						</div>
 						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/FL-DANG-VIEWTONG-ORDER-4-1.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-2.jpg" />
 							<!-- <div class="utilities__item-title">
 								Hồ bơi Điện Phân Đồng 300m2
 							</div> -->
 						</div>
 						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/FL-DANG-VIEWTONG-ORDER-5.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-3.jpg" />
 							<!-- <div class="utilities__item-title">
 								Hồ bơi Điện Phân Đồng 300m2
 							</div> -->
 						</div>
 						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/FL-VIEWGOC.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-4.jpg" />
 							<!-- <div class="utilities__item-title">
 								Vườn thiền thủy cực
 							</div> -->
@@ -287,39 +287,15 @@
 				<div class="utilities__slides col-lg-8 wow bounceInRight" data-wow-delay="0.5s">
 					<div class="utilities__list owl-carousel">
 						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/khu_pho_di_bo_shopping_am_thuc.jpg" />
-							<div class="utilities__item-title">
-								KHU PHỐ ĐI BỘ - SHOPPING - ẨM THỰC
-							</div>
-						</div>
-						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/ho_boi_oc_dao.jpg" />
-							<div class="utilities__item-title">
-								HỒ BƠI ỐC ĐẢO
-							</div>
-						</div>
-						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/ho_canh_quan_thuy_cuc.jpg" />
-							<div class="utilities__item-title">
-								HỒ CẢNH QUAN THỦY CỰC
-							</div>
-						</div>
-						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/ho_canh_quan.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/2-1.jpg" />
 							<div class="utilities__item-title">
 								HỒ CẢNH QUAN
 							</div>
 						</div>
 						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/san_choi_tre_nho.jpg" />
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/2-2.jpg" />
 							<div class="utilities__item-title">
-								SÂN CHƠI TRẺ NHỎ
-							</div>
-						</div>
-						<div class="utilities__item">
-							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/tien-ich/vuon_nhiet_doi.jpg" />
-							<div class="utilities__item-title">
-								VƯỜN NHIỆT ĐỚI
+								HỒ BƠI ỐC ĐẢO
 							</div>
 						</div>
 					</div>
@@ -414,6 +390,34 @@
 					<div class="ground__item">
 						<div class="ground__item-img">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/mat-bang-tang/TROPICAL-16-25.jpg" />
+							<div class="ground__item-search">
+								<img src="<?php echo THEME_URL  ?>/assets/images/search.png" data-fancybox href="<?php echo THEME_URL  ?>/assets/images/mat-bang-tang/TROPICAL-16-25.jpg"/>
+							</div>
+						</div>
+						<!-- <div class="ground__item-title row">
+							<div class="col-md-4 col-6 ground__item-color">
+								<span class="color-a1"></span>CĂN HỘ LOẠI A1-119.16M2
+							</div>
+							<div class="col-md-4 col-6 ground__item-color">
+								<span class="color-a2"></span>CĂN HỘ LOẠI A2-113.17M2
+							</div>
+							<div class="col-md-4 col-6 ground__item-color">
+								<span class="color-a3"></span>CĂN HỘ LOẠI A3-109.0M2
+							</div>
+							<div class="col-md-4 col-6 ground__item-color">
+								<span class="color-b1"></span>CĂN HỘ LOẠI B1-76.32M2
+							</div>
+							<div class="col-md-4 col-6 ground__item-color">
+								<span class="color-b2"></span>CĂN HỘ LOẠI B2-65.84M2
+							</div>
+							<div class="col-md-4 col-6 ground__item-color">
+								<span class="color-b3"></span>CĂN HỘ LOẠI B3-66.27M2
+							</div>
+						</div> -->
+					</div>
+					<div class="ground__item">
+						<div class="ground__item-img">
+							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/mat-bang-tang/FANTASY-16-27.jpg" />
 							<div class="ground__item-search">
 								<img src="<?php echo THEME_URL  ?>/assets/images/search.png" data-fancybox href="<?php echo THEME_URL  ?>/assets/images/mat-bang-tang/TROPICAL-16-25.jpg"/>
 							</div>
@@ -719,31 +723,25 @@
 		<div class="container">
 			<div class="news__list owl-carousel">
 				<div class="news__item">
-					<img src="<?php echo THEME_URL  ?>/assets/images/new-1.svg" />
-					<h6>Dự án Concordia International School đạt Chứng nhận LOTUS</h6>
+					<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-3.jpg" />
+					<h6>Chung cư xanh ở nội đô: Nhu cầu cao nhưng nguồn cung ít ỏi</h6>
 					<p>
-						Nằm trên phường Hoàng Văn Thụ, Hoàng Mai, Hà Nội. Nằm trên mặt đường quy hoạch rộng 30m nối thẳng
+						Mặc dù xu hướng xanh hóa đã rộ lên trong vài năm trở lại đây, 
+						tuy nhiên số lượng dự án xanh tại Hà Nội vẫn rất ít ỏi. Cơn khát dự án xanh ngày càng trở nên gay gắt.
 					</p>
 				</div>
 				<div class="news__item">
-					<img src="<?php echo THEME_URL  ?>/assets/images/new-2.svg" />
-					<h6>Dự án Concordia International School đạt Chứng nhận LOTUS</h6>
+					<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-1.jpg" />
+					<h6>Thời điểm vàng để mua chung cư Hà Nội</h6>
 					<p>
-						Nằm trên phường Hoàng Văn Thụ, Hoàng Mai, Hà Nội. Nằm trên mặt đường quy hoạch rộng 30m nối thẳng
+						Chung cư Hà Nội lại hội tụ đầy đủ các yếu tố thuận lợi để người mua tạo lập một tổ ấm hoặc đầu tư sinh lợi lâu dài...
 					</p>
 				</div>
 				<div class="news__item">
-					<img src="<?php echo THEME_URL  ?>/assets/images/new-3.png" />
-					<h6>Dự án Concordia International School đạt Chứng nhận LOTUS</h6>
+					<img src="<?php echo THEME_URL  ?>/assets/images/tien-ich/1-2.jpg" />
+					<h6>Hà Nội: Thiếu hụt dự án xanh khu trung tâm</h6>
 					<p>
-						Nằm trên phường Hoàng Văn Thụ, Hoàng Mai, Hà Nội. Nằm trên mặt đường quy hoạch rộng 30m nối thẳng
-					</p>
-				</div>
-				<div class="news__item">
-					<img src="<?php echo THEME_URL  ?>/assets/images/new-1.svg" />
-					<h6>Dự án Concordia International School đạt Chứng nhận LOTUS</h6>
-					<p>
-						Nằm trên phường Hoàng Văn Thụ, Hoàng Mai, Hà Nội. Nằm trên mặt đường quy hoạch rộng 30m nối thẳng
+						Tại Hà Nội, các chủ đầu tư tập trung thường phát triển các dự án với mật độ xây dựng cao để tối đa hóa diện tích thương phẩm...
 					</p>
 				</div>
 			</div>
@@ -772,7 +770,7 @@
 							<div class="d-lg-flex justify-content-between">
 								<div class="">
 									<img class="mr-2" src="<?php echo THEME_URL  ?>/assets/images/icon-tel.png" />
-									0916 32 19 19
+									091 632 1919
 								</div>
 								<div>
 									<img class="mr-2" src="<?php echo THEME_URL  ?>/assets/images/icon-web.png" />

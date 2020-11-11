@@ -265,7 +265,7 @@ img {
   .landing-page .header {
     position: relative;
     background-color: #125f6a;
-    background-image: url("../images/bg-1.jpg");
+    background-image: url("../images/bg-1.png");
     background-size: cover;
     background-position: center bottom; }
     .landing-page .header .fp-tableCell {
@@ -923,7 +923,9 @@ img {
       .landing-page .news__item img {
         border-top-right-radius: 20px;
         border-top-left-radius: 20px;
-        margin-bottom: 25px; }
+        margin-bottom: 25px; 
+        min-height: 300px;
+        object-fit: cover;}
       .landing-page .news__item h6 {
         font-size: 20px;
         color:  #f26522;
