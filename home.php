@@ -48,22 +48,22 @@
 							<a class="nav-link " data-value="location" href="#section2">Vị trí</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link " data-value="utilities" href="#section4">Tiện ích</a>
+							<a class="nav-link " data-value="utilities" href="#section3">Tiện ích</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link " data-value="ground" href="#section5">Mặt bằng</a>
+							<a class="nav-link " data-value="ground" href="#section6">Mặt bằng</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link " data-value="apartment" href="#section6">Căn hộ</a>
+							<a class="nav-link " data-value="apartment" href="#section7">Căn hộ</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link " data-value="furniture" href="#section7">Nội thất</a>
+							<a class="nav-link " data-value="furniture" href="#section8">Nội thất</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link " data-value="news" href="#section8">Tin tức</a>
+							<a class="nav-link " data-value="news" href="#section9">Tin tức</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link " data-value="contact" href="#section9">Liên hệ</a>
+							<a class="nav-link " data-value="contact" href="#section10">Liên hệ</a>
 						</li>
 					</ul>
 

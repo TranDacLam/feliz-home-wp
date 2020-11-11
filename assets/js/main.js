@@ -6,8 +6,8 @@ $(function(){
 			//fullpage js
 			new fullpage('#fullpage', {
 				anchors: [
-					'header', 'about', 'location-other', 
-					'location', 'utilities', 'utilities-2', 'ground',
+					'header', 'about', 'location', 
+					'utilities-1', 'utilities-2', 'utilities-3', 'ground',
 					'apartment', 'furniture', 'news', 'contact'
 				],
 				scrollBar: true,
