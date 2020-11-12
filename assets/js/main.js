@@ -80,7 +80,7 @@ $(function(){
 		center: true,
 		nav: true,
 		navText: navText,
-		autoplay:true,
+		// autoplay:true,
 		autoplayTimeout:5000,
 		autoplayHoverPause:true,
 		responsive:{
@@ -193,6 +193,10 @@ $(function(){
 			// breakpoint from 992 up
 			992 : {
 				items:3,
+				margin:20,
+			},
+			1280: {
+				margin:50,
 			}
 		}
 	});

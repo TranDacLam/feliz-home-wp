@@ -75,17 +75,7 @@
 
 	<!-- header -->
 	<div class="header section" id="section0">
-		<div class="container">
-			<div class="row">
-				<div class="col-6">
-					<!-- <h4>
-						Tropical Resort</br>
-						Tận hưởng 365 ngày thanh khiết
-					</h4>
-					<img src="<?php echo THEME_URL  ?>/assets/images/title-header.png" /> -->
-				</div>
-			</div>
-		</div>
+		<img src="<?php echo THEME_URL  ?>/assets/images/home-1.png" class="header__title"/>
 	</div>
 
 	<!-- about section -->
