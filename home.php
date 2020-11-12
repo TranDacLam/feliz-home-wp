@@ -27,7 +27,7 @@
 							</a>
 						</li>
 						<li class="navbar__contact-hotline">
-							<a href="tel:0916321919">091 632 1919</a>
+							<a href="tel:091 632 1919">091 632 1919</a>
 						</li>
 					</ul>
 				</div>
@@ -811,7 +811,7 @@
 	<div class="call-now-button">
 		<div>
 			<p class="call-text"> <b>Gọi Ngay!</b> </p>
-			<a href="tel:0123456789" title="Call Now">
+			<a href="tel:091 632 1919" title="Call Now">
 				<div class="quick-alo-ph-circle active"></div>
 				<div class="quick-alo-ph-circle-fill active"></div>
 				<div class="quick-alo-phone-img-circle shake"></div>

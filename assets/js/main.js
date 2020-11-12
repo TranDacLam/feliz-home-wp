@@ -6,9 +6,9 @@ $(function(){
 			//fullpage js
 			new fullpage('#fullpage', {
 				anchors: [
-					'header', 'about', 'location', 
-					'utilities-1', 'utilities-2', 'utilities-3', 'ground',
-					'apartment', 'furniture', 'news', 'contact'
+					'trang-chu', 'gioi-thieu', 'vi-tri', 
+					'tien-ich-1', 'tien-ich-2', 'tien-ich-3', 'mat-bang',
+					'can-ho', 'noi-that', 'tin-tuc', 'lien-he'
 				],
 				scrollBar: true,
 				css3: true,
