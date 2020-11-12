@@ -1,6 +1,12 @@
 <?php get_header();
 ?>
 <div class="landing-page" id="fullpage">
+
+	<div class="loading-app-wrapper" id="loading-app">
+		<div class="loading-app">
+			<span>FELIZ HOMES</span>
+		</div>
+	</div>
 	<!-- navbar -->
 	<nav class="navbar navbar-expand-lg navbar-light fixed-top" id="landing-nav">
 		<div class="container">

@@ -1,5 +1,4 @@
 $(function(){
-	
 	function addFullPage(){
 		// console.log($(window).width())
 		if($(window).width() > 992){
@@ -251,6 +250,8 @@ $(function(){
 	});
 
 	var myLazyLoad = new LazyLoad();
+
+	$('#loading-app').css({display:'none'})
 
 	// function checkScreen(){
 		
