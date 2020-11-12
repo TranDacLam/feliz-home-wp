@@ -1087,7 +1087,7 @@ img {
     border: none;
   transition: margin-left .3s ease-in-out;}
   .landing-page .call-now-button {
-    z-index: 9999;
+    z-index: 99999;
     clear: both;
     margin: 0 auto;
     position: fixed;

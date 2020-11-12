@@ -18,7 +18,7 @@
 				<div class="navbar__contact">
 					<ul class="align-self-end d-flex">
 						<li>
-							<a class="" href="#" target="_blank">
+							<a class="" href="https://www.facebook.com/Feliz-Homes-113544610562128" target="_blank">
 								<img src="<?php echo THEME_URL  ?>/assets/images/icon-fb.png" alt="Facebook" />
 							</a>
 						</li>
@@ -28,7 +28,7 @@
 							</a>
 						</li>
 						<li>
-							<a class="" href="#" target="_blank">
+							<a class="" href="tel:091 632 1919">
 								<img src="<?php echo THEME_URL  ?>/assets/images/icon-hotline.png" alt="Hotline" />
 							</a>
 						</li>
@@ -818,13 +818,13 @@
 	<div class="info-fixed dark">
 		<h6>NHẬN THÔNG TIN</h6>
 		<div class="info-fixed__icon info-fixed--dark">
-			<a href="#"><img src="<?php echo THEME_URL  ?>/assets/images/icon-hotline-fixed.png"/></a>
-			<a href="#"><img src="<?php echo THEME_URL  ?>/assets/images/icon-fb-fixed.png"/></a>
+			<a href="tel:091 632 1919"><img src="<?php echo THEME_URL  ?>/assets/images/icon-hotline-fixed.png"/></a>
+			<a href="https://www.facebook.com/Feliz-Homes-113544610562128" target="_blank"><img src="<?php echo THEME_URL  ?>/assets/images/icon-fb-fixed.png"/></a>
 			<a href="#"><img src="<?php echo THEME_URL  ?>/assets/images/icon-youtube-fixed.png"/></a>
 		</div>
 		<div class="info-fixed__icon info-fixed--light">
-			<a href="#"><img src="<?php echo THEME_URL  ?>/assets/images/icon-hotline-fixed-2.png"/></a>
-			<a href="#"><img src="<?php echo THEME_URL  ?>/assets/images/icon-fb-fixed-2.png"/></a>
+			<a href="tel:091 632 1919"><img src="<?php echo THEME_URL  ?>/assets/images/icon-hotline-fixed-2.png"/></a>
+			<a href="https://www.facebook.com/Feliz-Homes-113544610562128" target="_blank"><img src="<?php echo THEME_URL  ?>/assets/images/icon-fb-fixed-2.png"/></a>
 			<a href="#"><img src="<?php echo THEME_URL  ?>/assets/images/icon-youtube-fixed-2.png"/></a>
 		</div>
 		<span class="info-fixed__line"></span>
