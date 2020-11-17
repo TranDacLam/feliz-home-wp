@@ -799,11 +799,12 @@ img {
         .landing-page .apartment__item-title h4 {
           color: #114240;
           margin-bottom: 10px;
-          font-size: 22px; }
+          font-size: 20px; }
         .landing-page .apartment__item-title p {
           color: #114240;
           margin-bottom: 3px; }
       .landing-page .apartment__item img {
+        padding-top: 3%;
         width: 80%;
         object-fit: contain;
         max-height: calc(100vh - 200px);}
@@ -1490,6 +1491,8 @@ img {
   .landing-page .header .row > div {
     padding-top: 140px; } }
 @media only screen and (max-width: 1200px) {
+  .landing-page .apartment__item img {
+    padding-top: 5%;}
   .landing-page .header{
     background-position: 62%;
   }
@@ -1667,6 +1670,7 @@ img {
       .landing-page .apartment__nav li:nth-child(odd) {
         margin-right: 15px; }
   .landing-page .apartment__item img {
+    padding-top:0;
     width: 100%; }
   .landing-page .furniture__nav {
     flex-wrap: wrap;

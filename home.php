@@ -126,7 +126,7 @@
 						<li class="wow fadeInLeftBig" data-wow-delay="2.2s">
 							<div>
 								<p>THỜI GIAN HOÀN THÀNH:</p>
-								<strong>Dự kiến Quý II/2022</strong>
+								<strong>Dự kiến Quý III/2022</strong>
 							</div>
 						</li>
 					</ul>
@@ -491,7 +491,7 @@
 						<div class="apartment__item">
 							<img class="lazy" data-src="<?php echo THEME_URL  ?>/assets/images/can-ho/tropical/2pn_2wc_2.png"/>
 							<div class="apartment__item-title">
-								<h4>T03-T04 & T06-T09 & T12-T12A - 2PN 2WC</h4>
+								<h4>T03-T04 & T06-T09 <br>& T12-T12A - 2PN 2WC</h4>
 								<p>DT Tim Tường : 69.12m2 </p>
 								<p>DT Thông Thuỷ : 65.55m2 - 65.79m2</p>
 							</div>
